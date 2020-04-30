@@ -1,0 +1,20 @@
+
+@media only screen and (max-width: 480px){
+    body{
+        display: none;
+    }
+ 
+}
+
+@media only screen and (max-width: 767px){
+
+}
+
+@media only screen and (max-width: 1024px){
+    .hero-text .main{
+        width:90%;
+        padding:0 5%;
+    }
+
+}
+
